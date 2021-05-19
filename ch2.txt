@@ -1,3 +1,2 @@
-Hello, this is chapter 2, version 3
+Hello, this is chapter 2, version 2
 changes
-Next line
