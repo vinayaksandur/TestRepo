@@ -1,15 +1,17 @@
+Alien themed
+
 {
   "tasks": [
     {
      "id":1,
-     "text": "Buy groceries",
-     "date": "24 may",
-     "reminder": false
+     "text": "Buy groceries for clients",
+     "date": "24 may 2050",
+     "reminder": true
     },
     {
       "id":2,
-      "text": "Buy groceries",
-      "date": "25 may",
+      "text": "Drop alien to school",
+      "date": "25 may 2040",
       "reminder": false
     },
     {
@@ -20,3 +22,4 @@
     }
   ]
 }
+
