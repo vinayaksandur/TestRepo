@@ -1,5 +1,5 @@
-This is my changes in ch2.txt
+Clients This is my changes in ch2.txt
 Alien themed change
 Aliens are friendly
+My clients are from the company
 
-This is the changes to check the merge conflict
