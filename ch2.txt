@@ -1,3 +1,5 @@
 This is my changes in ch2.txt
 Alien themed change
 Aliens are friendly
+
+This is the changes to check the merge conflict
