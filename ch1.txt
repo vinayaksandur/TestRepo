@@ -1,2 +1,22 @@
-Moving the stars, with god
-This is chapter 1, version 2
+{
+  "tasks": [
+    {
+     "id":1,
+     "text": "Buy groceries",
+     "date": "24 may",
+     "reminder": false
+    },
+    {
+      "id":2,
+      "text": "Buy groceries",
+      "date": "25 may",
+      "reminder": false
+    },
+    {
+      "id":3,
+      "text": "Buy groceries",
+      "date": "26 may",
+      "reminder": true
+    }
+  ]
+}
